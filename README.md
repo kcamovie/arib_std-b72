@@ -54,4 +54,4 @@ Futhermore, if you need video with 1kHz sine audio, add options following :
 - ARIB STD-B67 Parameter Values for the Hybrid Log-Gamma (HLG) High Dynamic Range Television (HDR-TV) System for Programme Production - https://www.arib.or.jp/english/std_tr/broadcasting/std-b67.html
 
 ## Disclaimer
-Please use this code at your own lisk. I do not take any responsibility or liability for you using this code.
+Please use this code at your own risk. I do not take any responsibility or liability for you using this code.
